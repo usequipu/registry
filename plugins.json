@@ -3,8 +3,8 @@
     "id": "code-plugin",
     "name": "Code Editor",
     "description": "Full-featured code editor powered by Monaco (VS Code) for source files: JS, TS, Python, Go, Rust, and 20+ more languages.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/code-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/code-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~12 MB",
     "fileTypes": [".js", ".jsx", ".ts", ".tsx", ".py", ".go", ".rs", ".java", ".c", ".cpp", ".css", ".html", ".json", ".yaml", ".sql", ".rb", ".php"]
   },
@@ -12,8 +12,8 @@
     "id": "notebook-plugin",
     "name": "Jupyter Notebook",
     "description": "Jupyter notebook viewer and executor with live kernel support for .ipynb files.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/notebook-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/notebook-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~2 MB",
     "fileTypes": [".ipynb"]
   },
@@ -21,8 +21,8 @@
     "id": "pdf-plugin",
     "name": "PDF Viewer",
     "description": "Multi-page PDF viewer with zoom, page navigation, and text selection.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~1.8 MB",
     "fileTypes": [".pdf"]
   },
@@ -30,8 +30,8 @@
     "id": "excalidraw-plugin",
     "name": "Excalidraw Canvas",
     "description": "Infinite canvas whiteboard editor for .excalidraw files using Excalidraw.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/excalidraw-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/excalidraw-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~8 MB",
     "fileTypes": [".excalidraw"]
   },
@@ -39,8 +39,8 @@
     "id": "mermaid-plugin",
     "name": "Mermaid Diagrams",
     "description": "Side-by-side editor and live preview for Mermaid diagram files (.mmd, .mermaid).",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/mermaid-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/mermaid-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~3 MB",
     "fileTypes": [".mmd", ".mermaid"]
   },
@@ -48,8 +48,8 @@
     "id": "media-plugin",
     "name": "Media Viewer",
     "description": "Image and video viewer with zoom support for jpg, png, gif, svg, webp, mp4, webm, and more.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/media-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/media-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~0.3 MB",
     "fileTypes": [".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp", ".mp4", ".webm", ".mov"]
   },
@@ -57,8 +57,8 @@
     "id": "diff-plugin",
     "name": "Diff Viewer",
     "description": "Git diff viewer with line-level syntax highlighting for staged and working tree changes.",
-    "version": "0.1.1",
-    "downloadUrl": "https://github.com/usequipu/diff-plugin/releases/download/v0.1.1/plugin.zip",
+    "version": "0.1.2",
+    "downloadUrl": "https://github.com/usequipu/diff-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~0.8 MB",
     "fileTypes": []
   }
