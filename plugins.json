@@ -6,7 +6,25 @@
     "version": "0.1.2",
     "downloadUrl": "https://github.com/usequipu/code-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~12 MB",
-    "fileTypes": [".js", ".jsx", ".ts", ".tsx", ".py", ".go", ".rs", ".java", ".c", ".cpp", ".css", ".html", ".json", ".yaml", ".sql", ".rb", ".php"]
+    "fileTypes": [
+      ".js",
+      ".jsx",
+      ".ts",
+      ".tsx",
+      ".py",
+      ".go",
+      ".rs",
+      ".java",
+      ".c",
+      ".cpp",
+      ".css",
+      ".html",
+      ".json",
+      ".yaml",
+      ".sql",
+      ".rb",
+      ".php"
+    ]
   },
   {
     "id": "notebook-plugin",
@@ -15,16 +33,20 @@
     "version": "0.1.2",
     "downloadUrl": "https://github.com/usequipu/notebook-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~2 MB",
-    "fileTypes": [".ipynb"]
+    "fileTypes": [
+      ".ipynb"
+    ]
   },
   {
     "id": "pdf-plugin",
     "name": "PDF Viewer",
-    "description": "Multi-page PDF viewer with zoom, page navigation, and text selection.",
-    "version": "0.1.2",
-    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.1.2/plugin.zip",
-    "sizeHint": "~1.8 MB",
-    "fileTypes": [".pdf"]
+    "description": "Multi-page PDF viewer with lazy loading, zoom, text selection, and frame annotations.",
+    "version": "0.2.0",
+    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.2.0/plugin.zip",
+    "sizeHint": "~2 MB",
+    "fileTypes": [
+      ".pdf"
+    ]
   },
   {
     "id": "excalidraw-plugin",
@@ -33,7 +55,9 @@
     "version": "0.1.2",
     "downloadUrl": "https://github.com/usequipu/excalidraw-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~8 MB",
-    "fileTypes": [".excalidraw"]
+    "fileTypes": [
+      ".excalidraw"
+    ]
   },
   {
     "id": "mermaid-plugin",
@@ -42,7 +66,10 @@
     "version": "0.1.2",
     "downloadUrl": "https://github.com/usequipu/mermaid-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~3 MB",
-    "fileTypes": [".mmd", ".mermaid"]
+    "fileTypes": [
+      ".mmd",
+      ".mermaid"
+    ]
   },
   {
     "id": "media-plugin",
@@ -51,7 +78,18 @@
     "version": "0.1.2",
     "downloadUrl": "https://github.com/usequipu/media-plugin/releases/download/v0.1.2/plugin.zip",
     "sizeHint": "~0.3 MB",
-    "fileTypes": [".jpg", ".jpeg", ".png", ".gif", ".svg", ".webp", ".bmp", ".mp4", ".webm", ".mov"]
+    "fileTypes": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".svg",
+      ".webp",
+      ".bmp",
+      ".mp4",
+      ".webm",
+      ".mov"
+    ]
   },
   {
     "id": "diff-plugin",
