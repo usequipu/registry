@@ -41,8 +41,8 @@
     "id": "pdf-plugin",
     "name": "PDF Viewer",
     "description": "Multi-page PDF viewer with lazy loading, zoom, text selection, and frame annotations.",
-    "version": "0.2.0",
-    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.2.0/plugin.zip",
+    "version": "0.2.1",
+    "downloadUrl": "https://github.com/usequipu/pdf-plugin/releases/download/v0.2.1/plugin.zip",
     "sizeHint": "~2 MB",
     "fileTypes": [
       ".pdf"
