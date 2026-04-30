@@ -52,8 +52,8 @@
     "id": "excalidraw-plugin",
     "name": "Excalidraw Canvas",
     "description": "Infinite canvas whiteboard editor for .excalidraw files using Excalidraw.",
-    "version": "0.1.7",
-    "downloadUrl": "https://github.com/usequipu/excalidraw-plugin/releases/download/v0.1.7/plugin.zip",
+    "version": "0.1.8",
+    "downloadUrl": "https://github.com/usequipu/excalidraw-plugin/releases/download/v0.1.8/plugin.zip",
     "sizeHint": "~16 MB",
     "fileTypes": [
       ".excalidraw"
