@@ -3,8 +3,8 @@
     "id": "code-plugin",
     "name": "Code Editor",
     "description": "Full-featured code editor powered by Monaco (VS Code) for source files: JS, TS, Python, Go, Rust, and 20+ more languages.",
-    "version": "0.1.7",
-    "downloadUrl": "https://github.com/usequipu/code-plugin/releases/download/v0.1.7/plugin.zip",
+    "version": "0.1.8",
+    "downloadUrl": "https://github.com/usequipu/code-plugin/releases/download/v0.1.8/plugin.zip",
     "sizeHint": "~0.8 MB",
     "fileTypes": [
       ".js",
